@@ -4,7 +4,7 @@ numpy==1.23.5
 opencv-python==4.9.0.80
 scikit-image==0.21.0
 tk==0.1.0
-pillow==9.5.0
+pillow==10.3.0
 onnx==1.16.1
 onnxruntime-gpu==1.18.0
 protobuf==4.23.2
