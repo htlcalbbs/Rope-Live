@@ -5,7 +5,7 @@ opencv-python==4.9.0.80
 scikit-image==0.21.0
 tk==0.1.0
 pillow==9.5.0
-onnx==1.16.1
+onnx==1.17.0
 onnxruntime-gpu==1.18.0
 protobuf==4.23.2
 torch==2.0.1+cu118
